@@ -2,6 +2,8 @@
 AI GenChatX is a powerful, cross-platform AI chatbot built using Flutter and integrated with multi-LLM models including Google Gemini and GROQ's Mixtral.   
 Designed to deliver real-time, intelligent, and personalized conversations across Android, iOS, and Web, this chatbot harnesses the capabilities of advanced language models to simulate human-like interactions.
 
+DEMO: https://drive.google.com/file/d/1nmBPGOmEPX-s2LQJCi8CYmgeBz1IQDq9/view?usp=sharing
+
 # 🧠 Key Features
 
 🔄 Cross-Platform Support – Runs seamlessly on Android, iOS, and Web using a single Flutter codebase.
